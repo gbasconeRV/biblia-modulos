@@ -143,6 +143,15 @@
       "size": "4,9 MB",
       "language": "es",
       "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/spavbl.SQLite3"
+    },
+    {
+      "id": "lbla-c-commentaries",
+      "type": "commentary",
+      "title": "LBLA-c commentaries",
+      "subtitle": "Publico",
+      "language": "es",
+      "size": "1,1 MB",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/LBLA-c.commentaries.SQLite3"
     }
   ]
 }
