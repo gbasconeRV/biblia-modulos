@@ -10,6 +10,15 @@
       "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/strongs-rvr1909.SQLite3"
     },
     {
+      "id": "strongs-rvg",
+      "type": "strongs",
+      "title": "Números de Strong — RVG",
+      "subtitle": "© Humberto Gómez Caballero · redistribución autorizada (incluye etiquetado Strong de eBible.org)",
+      "size": "15,2 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/strongs-rvg.SQLite3"
+    },
+    {
       "id": "RVA.1602",
       "type": "version",
       "title": "Reina Valera Antigua 1602 (RVA1602)",
@@ -145,58 +154,13 @@
       "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/spavbl.SQLite3"
     },
     {
-      "id": "lbla-c-commentaries",
-      "type": "commentary",
-      "title": "LBLA",
-      "subtitle": "",
-      "language": "es",
-      "size": "1,1 MB",
-      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/LBLA-c.commentaries.SQLite3"
-    },
-    {
-      "id": "rv'60+",
-      "type": "version",
-      "title": "RV'60+",
-      "subtitle": "",
-      "language": "es",
-      "size": "9,4 MB",
-      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/RV'60+.SQLite3"
-    },
-    {
-      "id": "bem-c-commentaries",
-      "type": "commentary",
-      "title": "BEM-c commentaries",
-      "subtitle": "",
-      "language": "es",
-      "size": "10,7 MB",
-      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/BEM-c.commentaries.SQLite3"
-    },
-    {
-      "id": "lbla",
-      "type": "version",
-      "title": "LBLA",
-      "subtitle": "",
-      "language": "es",
-      "size": "6,4 MB",
-      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/LBLA.SQLite3"
-    },
-    {
       "id": "strong-es-dictionary",
-      "type": "strongs",
-      "title": "Strong-ES dictionary",
-      "subtitle": "",
+      "type": "dictionary",
+      "title": "Diccionario Strong en Español",
+      "subtitle": "Sin licencia declarada — revisar antes de mantener en el catálogo público",
       "language": "es",
       "size": "5,4 MB",
       "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/Strong-ES.dictionary.SQLite3"
-    },
-    {
-      "id": "rv-1909-strongs-sqlite",
-      "type": "strongs",
-      "title": "rv 1909 strongs sqlite",
-      "subtitle": "",
-      "language": "es",
-      "size": "8,4 MB",
-      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/rv_1909_strongs.sqlite"
     }
   ]
 }
