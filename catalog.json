@@ -1,0 +1,148 @@
+{
+  "modules": [
+    {
+      "id": "strongs-rvr1909",
+      "type": "strongs",
+      "title": "Números de Strong — RVR1909",
+      "subtitle": "Diccionario de Strong (1890), dominio público",
+      "size": "13,6 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/strongs-rvr1909.SQLite3"
+    },
+    {
+      "id": "RVA.1602",
+      "type": "version",
+      "title": "Reina Valera Antigua 1602 (RVA1602)",
+      "subtitle": "Dominio público (declarado en el módulo)",
+      "size": "5,1 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/RVA.1602.SQLite3"
+    },
+    {
+      "id": "RV1865",
+      "type": "version",
+      "title": "Reina-Valera 1865 (RV1865)",
+      "subtitle": "Dominio público · Ministerios Valera 1865",
+      "size": "4,6 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/RV1865.SQLite3"
+    },
+    {
+      "id": "RV.1858",
+      "type": "version",
+      "title": "Reina Valera 1858 (Nuevo Testamento) (RV1858)",
+      "subtitle": "Dominio público · solo Nuevo Testamento",
+      "size": "1,5 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/RV.1858.SQLite3"
+    },
+    {
+      "id": "BDO.1569",
+      "type": "version",
+      "title": "La Biblia del Oso (1569) (BDO1569)",
+      "subtitle": "Dominio público · Casiodoro de Reina",
+      "size": "5,2 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/BDO.1569.SQLite3"
+    },
+    {
+      "id": "VBL.22",
+      "type": "version",
+      "title": "Versión Biblia Libre 2022 (beta) (VBL22)",
+      "subtitle": "CC BY-SA 4.0 · Jonathan Gallagher",
+      "size": "5,4 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/VBL.22.SQLite3"
+    },
+    {
+      "id": "VBL.22.commentaries",
+      "type": "commentary",
+      "title": "Notas — Versión Biblia Libre 2022",
+      "subtitle": "CC BY-SA 4.0 · Jonathan Gallagher",
+      "size": "0,8 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/VBL.22.commentaries.SQLite3"
+    },
+    {
+      "id": "VBL.commentaries",
+      "type": "commentary",
+      "title": "Notas — Free Bible Version (VBL 2018)",
+      "subtitle": "CC BY-NoDerivs · Gallagher y Barrios de Ávila",
+      "size": "0,1 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/VBL.commentaries.SQLite3"
+    },
+    {
+      "id": "sparvg",
+      "type": "version",
+      "title": "Reina Valera Gómez (RVG)",
+      "subtitle": "© Humberto Gómez Caballero · redistribución autorizada",
+      "size": "5,4 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/sparvg.SQLite3"
+    },
+    {
+      "id": "spav1602p",
+      "type": "version",
+      "title": "Valera 1602 Purificada (V1602P)",
+      "subtitle": "© Iglesia Bautista Bíblica de la Gracia · redistribución autorizada",
+      "size": "5,5 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/spav1602p.SQLite3"
+    },
+    {
+      "id": "spabll",
+      "type": "version",
+      "title": "Santa Biblia Libre Latinoamericano (BLL)",
+      "subtitle": "Dominio público",
+      "size": "5,0 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/spabll.SQLite3"
+    },
+    {
+      "id": "spablm",
+      "type": "version",
+      "title": "Santa Biblia Libre para el Mundo (BLM)",
+      "subtitle": "Dominio público",
+      "size": "5,0 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/spablm.SQLite3"
+    },
+    {
+      "id": "spaonbv",
+      "type": "version",
+      "title": "Open Nueva Biblia Viva (ONBV)",
+      "subtitle": "© Biblica, Inc. · licencia abierta",
+      "size": "4,4 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/spaonbv.SQLite3"
+    },
+    {
+      "id": "spapddpt",
+      "type": "version",
+      "title": "Palabra de Dios para Ti (PDDPT)",
+      "subtitle": "© Asoc. Bíblica Latinoamericana · redistribución autorizada",
+      "size": "6,8 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/spapddpt.SQLite3"
+    },
+    {
+      "id": "spabes",
+      "type": "version",
+      "title": "La Biblia en Español Sencillo (BES)",
+      "subtitle": "© AudioBiblia.org · redistribución autorizada",
+      "size": "4,9 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/spabes.SQLite3"
+    },
+    {
+      "id": "spavbl",
+      "type": "version",
+      "title": "Versión Biblia Libre (VBL)",
+      "subtitle": "© Gallagher y Barrios de Ávila · redistribución autorizada",
+      "size": "4,9 MB",
+      "language": "es",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/spavbl.SQLite3"
+    }
+  ]
+}
