@@ -179,6 +179,15 @@
       "language": "es",
       "size": "5,4 MB",
       "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/Strong-ES.dictionary.SQLite3"
+    },
+    {
+      "id": "lbla",
+      "type": "version",
+      "title": "LBLA",
+      "subtitle": "",
+      "language": "es",
+      "size": "6,4 MB",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/LBLA.SQLite3"
     }
   ]
 }
