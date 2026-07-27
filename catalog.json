@@ -188,6 +188,15 @@
       "language": "es",
       "size": "5,4 MB",
       "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/Strong-ES.dictionary.SQLite3"
+    },
+    {
+      "id": "rv-1909-strongs-sqlite",
+      "type": "strongs",
+      "title": "rv 1909 strongs sqlite",
+      "subtitle": "",
+      "language": "es",
+      "size": "8,4 MB",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/rv_1909_strongs.sqlite"
     }
   ]
 }
