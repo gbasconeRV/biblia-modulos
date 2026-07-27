@@ -170,6 +170,15 @@
       "language": "es",
       "size": "10,7 MB",
       "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/BEM-c.commentaries.SQLite3"
+    },
+    {
+      "id": "strong-es-dictionary",
+      "type": "dictionary",
+      "title": "Strong-ES dictionary",
+      "subtitle": "",
+      "language": "es",
+      "size": "5,4 MB",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/Strong-ES.dictionary.SQLite3"
     }
   ]
 }
