@@ -161,6 +161,15 @@
       "language": "es",
       "size": "9,4 MB",
       "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/RV'60+.SQLite3"
+    },
+    {
+      "id": "bem-c-commentaries",
+      "type": "commentary",
+      "title": "BEM-c commentaries",
+      "subtitle": "",
+      "language": "es",
+      "size": "10,7 MB",
+      "url": "https://raw.githubusercontent.com/gbasconeRV/biblia-modulos/main/modules/BEM-c.commentaries.SQLite3"
     }
   ]
 }
